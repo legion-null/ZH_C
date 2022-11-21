@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../汉化/汉化.h"
+#include "../../汉化/汉化.h"
 
 空* 内存搜索(const 空 *内存位置, i32 字节, usize 搜索字节数);
 i32 内存比较(const 空 *内存位置1, const 空 *内存位置2, usize 比较字节数);

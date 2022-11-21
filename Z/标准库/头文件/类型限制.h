@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../汉化/汉化.h"
+#include "../../汉化/汉化.h"
 
 #define i8_位数				8
 
