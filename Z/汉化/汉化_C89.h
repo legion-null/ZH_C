@@ -7,7 +7,7 @@
 #define		共用体		union		// 联合体声明。（K&R时期引入）
 #define		枚举型		enum		// 枚举声明。（C89标准新增）
 #define		类型别名		typedef		// 声明类型别名。（K&R时期引入）
-#define		取大小		sizeof		// 得到特定类型或特定类型变量的大小。（K&R时期引入）
+#define		取字节数		sizeof		// 得到特定类型或特定类型变量的大小。（K&R时期引入）
 
 // 存储级别关键字
 #define		自动			auto		// 指定为自动变量，由编译器自动分配及释放。通常在栈上分配。与static相反。当变量未指定时默认为auto。（K&R时期引入）
